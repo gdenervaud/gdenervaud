@@ -7,7 +7,7 @@
 - Project [KG Statistics](https://github.com/HumanBrainProject/kg-statistics): [showcase](https://kg-statistics.web.app)
 
 
-##### *with my collegues*
+##### *with my colleagues*
 [![Oliver Schmid](https://avatars.githubusercontent.com/u/1562016?s=64&amp;v=4 "Oliver Schmid")](https://github.com/olinux "Oliver Schmid")
 [![Ioannis Tsanaktsidis](https://avatars.githubusercontent.com/u/7301890?s=64&amp;v=4 "Ioannis Tsanaktsidis")](https://github.com/ioannistsanaktsidis "Ioannis Tsanaktsidis")
 [![David Kunzmann](https://avatars.githubusercontent.com/u/6317721?s=64&amp;v=4 "David Kunzmann")](https://github.com/joke1196 "David Kunzmann") 
