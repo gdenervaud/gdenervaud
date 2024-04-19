@@ -23,11 +23,11 @@
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Java Spring Boot](https://img.shields.io/badge/spring_boot-%236db33f.svg?style=for-the-badge&logo=springboot&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/fastapi-%23009485.svg?style=for-the-badge&logo=fastapi&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![REST](https://img.shields.io/badge/rest-%230d479c.svg?style=for-the-badge&logo=rest&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23512bd4.svg?style=for-the-badge&logo=c%23&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
+![ElasticSearch](https://img.shields.io/badge/ElasticSearch-%2303bfb4.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![Kibana](https://img.shields.io/badge/Kibana-%23fec513.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![ArangoDB](https://img.shields.io/badge/ArangoDB-%235b6f3e.svg?style=for-the-badge&logo=arangodb&logoColor=%23f6fa87) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
+
+![Keycloak](https://img.shields.io/badge/Keycloak-%2300b8e2.svg?style=for-the-badge&logo=keycloak&logoColor=white) ![OIDC](https://img.shields.io/badge/oidc-%23323330.svg?style=for-the-badge&logo=oidc&logoColor=white)
 
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
