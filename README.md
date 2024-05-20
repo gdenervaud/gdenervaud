@@ -1,5 +1,7 @@
 ## 👇 Personal projects
 - My [CV](https://gdenervaud.github.io/cv/) (using Svelte) [https://github.com/gdenervaud/cv](https://github.com/gdenervaud/cv)
+- [Euromillions Stats](https://euromillions-stats.web.app/) (using React) [https://github.com/gdenervaud/euromillions](https://github.com/gdenervaud/euromillions)
+
 
 ## 👇 Showcases of the projects on the [Knowledge Graph](https://kg.ebrains.eu "Knowledge Graph") @ [![Human Brain Project](https://avatars.githubusercontent.com/u/6715123?s=64&amp;v=4 "Human Brain Project")](https://github.com/HumanBrainProject, "Human Brain Project")
 
